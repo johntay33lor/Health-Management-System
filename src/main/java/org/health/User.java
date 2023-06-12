@@ -1,5 +1,4 @@
 package org.health;
-
 public class User {
     private String username;
 

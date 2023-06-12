@@ -1,5 +1,4 @@
 package org.health;
-
 import java.io.*;
 import java.util.*;
 import java.util.ArrayList;

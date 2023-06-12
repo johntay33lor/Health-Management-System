@@ -1,5 +1,4 @@
 package org.health;
-
 import java.time.LocalTime;
 
 public class SleepRecord {

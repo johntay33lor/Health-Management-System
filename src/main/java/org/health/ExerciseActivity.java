@@ -1,5 +1,4 @@
 package org.health;
-
 public class ExerciseActivity {
     private String exerciseType;
     private int duration;

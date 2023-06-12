@@ -1,5 +1,4 @@
 package org.health;
-
 public class CalorieIntake {
     private String foodItem;
     private int caloricValue;
