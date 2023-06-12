@@ -1,0 +1,19 @@
+Date: 2023-06-11
+Food Item: Apple
+Calories: 52
+
+Date: 2023-06-11
+Food Item: Chicken Breast
+Calories: 165
+
+Date: 2023-06-12
+Food Item: Salad
+Calories: 120
+
+Date: 2023-06-12
+Food Item: Steak
+Calories: 500
+
+Date: 2023-06-12
+Food Item: Orange
+Number of Calories: 25

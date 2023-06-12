@@ -1,0 +1,11 @@
+Date: 2023-06-10
+Sleep Time: 22:00
+Wake-Up Time: 06:00
+
+Date: 2023-06-11
+Sleep Time: 23:30
+Wake-Up Time: 07:30
+
+Date: 2023-06-12
+Bedtime: 22:00
+Wake-up Time: 05:30

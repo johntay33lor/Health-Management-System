@@ -1,0 +1,24 @@
+Date: 2023-06-11
+Exercise Type: Running
+Duration (minutes): 30
+Calories Burned: 325
+
+Date: 2023-06-11
+Exercise Type: Weightlifting
+Duration (minutes): 45
+Calories Burned: 375
+
+Date: 2023-06-12
+Exercise Type: Walking
+Duration (minutes): 60
+Calories Burned: 300
+
+Date: 2023-06-12
+Exercise Type: Weightlifting
+Duration (minutes): 25
+Calories Burned: 250
+
+Date: 2023-06-12
+Activity: Boxing
+Duration (minutes): 25
+Calories Burned: 280
